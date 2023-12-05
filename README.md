@@ -6,5 +6,5 @@ Testing was carried out on the web store http://demowebshop.tricentis.com/ and v
 - [Cheklists](https://docs.google.com/spreadsheets/d/1vvvIETwWRFaqDzpUvHlNEmrhYhIXjQ7L/edit?usp=sharing&ouid=116283198519454590915&rtpof=true&sd=true)
 - [Test cases via TestIT](https://drive.google.com/file/d/1huHp1Yc__i7kbzO-IL28JZUw-IwbyWtO/view?usp=sharing)
 
-  
+Examples of my bug reports on the test build of the store https://nexaflora.tilda.ws/
 - [Bug reports](https://docs.google.com/spreadsheets/d/1Wf9RK4E7RvaxMYuZNodtjByLyREcTwS3hBpPGsUhkv0/edit?usp=sharing)
